@@ -16,4 +16,5 @@ gem 'emblem-rails'
 gem 'minitest-rails'
 gem 'minitest-rails-capybara', group: :test
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'ffaker'
 
