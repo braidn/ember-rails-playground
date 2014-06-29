@@ -3,5 +3,5 @@
 App.Router.map(function() {
   // AutoLocation API rids the url of hash bangs
   location: 'auto',
-  rootUrl: '/'
+  this.resource('leads', {path: '/'})
 });
